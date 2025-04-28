@@ -3,7 +3,7 @@
 ## 📈 Algunos datos de mi recap de Diciembre a Febrero 2025
 
 ### ⭐ Estos fueron mis artistas más escuchados.
-![ArtistasEscuchados](musica.jpeg)
+<img src="musica.jpeg" alt="ArtistasEscuchados" width="200">
 
 
 ### ⭐ Estas fueron mis canciones más escuchadas.
