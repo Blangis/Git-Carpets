@@ -10,6 +10,18 @@ programación. He adquirido conocimientos en HTML, CSS, JavaScript y sigo amplia
 tecnologías web para fortalecer mis habilidades y comprensión en el desarrollo de software. Me interesa
 profundizar en sistemas operativos, control de versiones, bases de datos y despliegue de aplicaciones.
 
+**Herramientas técnicas con las que he trabajado:** 
+- HTML
+- CSS
+- JavaScript
+- Visual Studio Code
+- SQL
+- MySQL Workbench
+- Java en eclipse
+- C# en .NET core
+- Figma
+
+
 **Redes Sociales:**
 - [LinkedIn](https://www.linkedin.com/in/blanca-giselle-licona-aguilar) 
 - [GitHub](https://github.com/Blangis)
