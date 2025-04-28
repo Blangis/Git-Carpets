@@ -10,7 +10,14 @@
 ![CancionesEscuchadas](songs.jpeg)
 
 
-**Clasificación de canciones por género**:
+### ⭐ Estos fueron los géneros más escuchadas.
+![CancionesEscuchadas](generos.jpeg)
+
+
+### ⭐ Estos fueron mis estados de ánimo de acuerdo a la música que escuché
+![CancionesEscuchadas](animos.jpeg)
+
+## Aquí hay una clasificación random de canciones por género:
 
 ### 🎵 Clasificación de canciones por género:
 
