@@ -5,9 +5,9 @@
 ### Podrás encontrar: 
 ⭐ Mis artistas más escuchados.
 
-⭐ Mis canciones más escuchadas.
+⭐ Mis canciones más reproducidas.
 
-⭐ Los géneros más escuchados.
+⭐ Géneros principales de acuerdo al recap.
 
 ⭐ Mis estados de ánimo de acuerdo a la música que escuché.
 
