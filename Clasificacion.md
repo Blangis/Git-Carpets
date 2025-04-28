@@ -2,7 +2,7 @@
 
 ## 📈 Algunos datos de mi recap de Diciembre a Febrero 2025
 
-### Podrás encontrar: 
+### Hola, aquí podrás encontrar: 
 ⭐ Mis artistas más escuchados.
 
 ⭐ Mis canciones más reproducidas.
