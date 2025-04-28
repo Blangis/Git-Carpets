@@ -14,7 +14,12 @@ En el proyecto se creó una card utilizando HTML y CSS para mostrar información
 ## Frecuencia de palabras
 En el proyecto se utilizó HTML, CSS y JavaScript para crear un contador de frecuencia de palabras. Con HTML se estructuró un área de texto y un botón para iniciar el conteo. CSS se usó para dar estilo a la interfaz, usando flexbox y estilos personalizados para los resultados. JavaScript permitió capturar el texto, procesarlo y mostrar cuántas veces se repite cada palabra. Se manipuló el DOM para crear dinámicamente tarjetas con los resultados.
 - Cálculo de frecuencia de palabras en un texto: [Contador palabras](https://blangis.github.io/Technical-test/).
+
+## Pokemon card
+En este proyecto de usa la pokéAPI para renderizar en una card un pokemón, mostrando información del mismo.
 - HTML, CSS, JS [Pokemon card](https://blangis.github.io/Pokemon-card/).
 
 ## Maquetado de red social
 - Maquetado de red social viaje para mujeres [Femtrek](https://github.com/Anggie-Trejo/Fem)
+
+> [Conectemos en LinkedIn](https://www.linkedin.com/in/blanca-giselle-licona-aguilar)
