@@ -16,7 +16,7 @@ En el proyecto se utilizó HTML, CSS y JavaScript para crear un contador de frec
 - Cálculo de frecuencia de palabras en un texto: [Contador palabras](https://blangis.github.io/Technical-test/).
 
 ## Pokemon card
-En este proyecto de usa la pokéAPI para renderizar en una card un pokemón, mostrando información del mismo.
+En este proyecto se usa la pokéAPI para traer información de pokemones a una card diseñada con HTML, CSS, la cual renderiza información de manera aleatoria o bien, seleccionando el ID del pokemón que se desea consultar. La página es responsiva.
 - HTML, CSS, JS [Pokemon card](https://blangis.github.io/Pokemon-card/).
 
 ## Maquetado de red social
