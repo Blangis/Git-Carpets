@@ -2,6 +2,8 @@
 
 > Aquí hay información de algunos proyectos personales realizados y algunos otros en los que he colaborado.
 
+> Conectemos en [LinkedIn.](https://www.linkedin.com/in/blanca-giselle-licona-aguilar) 😀
+
 ## IBM React
 En el proyecto se utilizaron elementos de React como div, h1 y button para estructurar la interfaz de usuario. También se implementaron componentes funcionales para organizar el código y facilitar su reutilización. Los estados y eventos fueron manejados mediante hooks como useState y useEffect. Además, se empleó JSX para escribir una sintaxis similar a HTML dentro del código JavaScript. Estos elementos permiten una interfaz dinámica y reactiva.
 
@@ -21,5 +23,3 @@ En este proyecto se usa la pokéAPI para traer información de pokemones a una c
 
 ## Maquetado de red social
 - Maquetado de red social viaje para mujeres [Femtrek](https://github.com/Anggie-Trejo/Fem)
-
-> [Conectemos en LinkedIn](https://www.linkedin.com/in/blanca-giselle-licona-aguilar)
