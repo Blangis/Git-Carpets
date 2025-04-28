@@ -1,5 +1,7 @@
 # Proyectos
 
+> Aquí hay información de algunos proyectos personales realizados y algunos otros en los que he colaborado.
+
 ## IBM React
 En el proyecto se utilizaron elementos de React como div, h1 y button para estructurar la interfaz de usuario. También se implementaron componentes funcionales para organizar el código y facilitar su reutilización. Los estados y eventos fueron manejados mediante hooks como useState y useEffect. Además, se empleó JSX para escribir una sintaxis similar a HTML dentro del código JavaScript. Estos elementos permiten una interfaz dinámica y reactiva.
 
