@@ -2,26 +2,19 @@
 
 ## 📈 Algunos datos de mi recap de Diciembre a Febrero 2025
 
-### ⭐ Estos fueron mis artistas más escuchados.
+### Podrás encontrar: 
+⭐ Mis artistas más escuchados.
+
+⭐ Mis canciones más escuchadas.
+
+⭐ Los géneros más escuchados.
+
+⭐ Mis estados de ánimo de acuerdo a la música que escuché.
+
 <p align="center">
 <img src="musica.jpeg" alt="ArtistasEscuchados" width="300">
-</p>
-
-
-### ⭐ Estas fueron mis canciones más escuchadas.
-<p align="center">
 <img src="songs.jpeg" alt="CancionesEscuchados" width="300">
-</p>
-
-
-### ⭐ Estos fueron los géneros más escuchadas.
-<p align="center">
 <img src="generos.jpeg" alt="GénerosEscuchados" width="300">
-</p>
-
-
-### ⭐ Estos fueron mis estados de ánimo de acuerdo a la música que escuché
-<p align="center">
 <img src="animos.jpeg" alt="EstadosEscuchados" width="300">
 </p>
 
