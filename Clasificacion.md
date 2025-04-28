@@ -1,11 +1,13 @@
 # Música
 
-## Algunos datos de mi recap de Diciembre a Febrero 2025
+## 📈 Algunos datos de mi recap de Diciembre a Febrero 2025
 
-Aquí puedes visualizar mis canciones más escuchadas en estos meses pasados.
-![Canciones](musica.jpeg).
+### ⭐ Estos fueron mis artistas más escuchados.
+![ArtistasEscuchados](musica.jpeg)
 
 
+### ⭐ Estas fueron mis canciones más escuchadas.
+![CancionesEscuchadas](songs.jpeg)
 
 
 **Clasificación de canciones por género**:
