@@ -22,4 +22,4 @@ En este proyecto se usa la pokéAPI para traer información de pokemones a una c
 - HTML, CSS, JS [Pokemon card](https://blangis.github.io/Pokemon-card/).
 
 ## Maquetado de red social
-- Maquetado de red social viaje para mujeres [Femtrek](https://github.com/Anggie-Trejo/Fem)
+- Maquetado de red social viaje para mujeres [Femtrek](https://anggie-trejo.github.io/Fem/)
