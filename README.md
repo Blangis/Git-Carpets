@@ -6,6 +6,6 @@ Mi nombre es Giselle y aquí podrás encontrar tres archivos donde comparto info
 
 Aquí están los vínculos directos a dichos archivos:
 
-- 👩‍💻 [Acerca de mí](https://github.com/Blangis/Git-Carpets/blob/branch.one/informacion.md)
-- 🎶 [Mis gustos musicales](https://github.com/Blangis/Git-Carpets/blob/branch-three/Clasificacion.md)
--  🧩  [Proyectos](https://github.com/Blangis/Git-Carpets/blob/branch-two/Proyectos.md)
+- 👩‍💻 [Acerca de mí](https://github.com/Blangis/Git-GitHub-FinalProject/blob/main/informacion.md)
+- 🎶 [Mis gustos musicales](https://github.com/Blangis/Git-GitHub-FinalProject/blob/main/Clasificacion.md)
+-  🧩  [Proyectos](https://github.com/Blangis/Git-GitHub-FinalProject/blob/main/Proyectos.md)
