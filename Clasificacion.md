@@ -46,3 +46,6 @@
 - *Canon in D* – Pachelbel  
 - *Clair de Lune* – Debussy  
 - *La Primavera* – Vivaldi  
+
+---
+¡Hola! Soy ***Gerardo***: Ya que veo que te gusta algo de rock viejito, te recomiendo los álbumes de *Iron Maiden* o de *Nightwish* justamente de alrededor de los años 2000. Son los álbumes que más disfruto de esos años. 🎧 
