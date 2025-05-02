@@ -49,3 +49,6 @@
 
 ---
 ¡Hola! Soy ***Gerardo***: Ya que veo que te gusta algo de rock viejito, te recomiendo los álbumes de *Iron Maiden* o de *Nightwish* justamente de alrededor de los años 2000. Son los álbumes que más disfruto de esos años. 🎧 
+
+
+Hola, soy **Jessi**. 🟦 Te recomiendo: **Robbers - The 1975** 🫐
