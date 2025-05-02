@@ -51,7 +51,10 @@
 ¡Hola! Soy ***Gerardo***: Ya que veo que te gusta algo de rock viejito, te recomiendo los álbumes de *Iron Maiden* o de *Nightwish* justamente de alrededor de los años 2000. Son los álbumes que más disfruto de esos años. 🎧 
 
 
+Hola, soy **Jessi**. 🟦 Te recomiendo: **Robbers - The 1975** 🫐
+
 Te recomiendo mucho artistas como Fleetwood Mac, The Beatles, Pink Floyd, The Rolling Stones, Queen, entre otros. P.D YouTube Music GOD ATTE: **Emiliano**
 
 Holis, soy **Dey**: Que geniales gustos, igual me encanta Empire of The Sun, y wow lo que dice Gerardo de *Nightwish* muy buna banda jsjsjs. Yo te recomiendo a *Milky Chance*  
+
 
