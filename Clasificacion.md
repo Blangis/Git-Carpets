@@ -25,7 +25,7 @@
 **🎸 Rock**
 - *Bohemian Rhapsody* – Queen  
 - *Smells Like Teen Spirit* – Nirvana  
-- *Sweet Child O’ Mine* – Guns N’ Roses  
+- *Sweet Child O’ Mine* – Guns N’ Roses  v
 
 **🎤 Pop**
 - *Blinding Lights* – The Weeknd  
@@ -52,3 +52,9 @@
 
 
 Hola, soy **Jessi**. 🟦 Te recomiendo: **Robbers - The 1975** 🫐
+
+Te recomiendo mucho artistas como Fleetwood Mac, The Beatles, Pink Floyd, The Rolling Stones, Queen, entre otros. P.D YouTube Music GOD ATTE: **Emiliano**
+
+Holis, soy **Dey**: Que geniales gustos, igual me encanta Empire of The Sun, y wow lo que dice Gerardo de *Nightwish* muy buna banda jsjsjs. Yo te recomiendo a *Milky Chance*  
+
+
