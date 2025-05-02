@@ -60,6 +60,7 @@ Te recomiendo mucho artistas como Fleetwood Mac, The Beatles, Pink Floyd, The Ro
 
 Holis, soy **Dey**: Que geniales gustos, igual me encanta Empire of The Sun, y wow lo que dice Gerardo de *Nightwish* muy buna banda jsjsjs. Yo te recomiendo a *Milky Chance*  
 
-
+Wenass, soy **Crizzz**. Me agradan esos justos musicales, muy variados ;). Si me permites una recomendación, Justice es muy muy bueno. Deberias checarlo. Saluditos!!
 
 Hola, soy **Karla**, en la sección de música de rock, te recomiendo *Alice in Chains*
+
