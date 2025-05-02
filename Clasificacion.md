@@ -64,3 +64,5 @@ Wenass, soy **Crizzz**. Me agradan esos justos musicales, muy variados ;). Si me
 
 Hola, soy **Karla**, en la sección de música de rock, te recomiendo *Alice in Chains*
 
+Holiwis, soy **Frida Thais**: Te quedó hermosísima tu rama, y muy buen grupo __Empire of the sun__, te recomiendo escuhar __Non-stop__
+
