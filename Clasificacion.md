@@ -50,6 +50,8 @@
 ---
 ¡Hola! Soy ***Gerardo***: Ya que veo que te gusta algo de rock viejito, te recomiendo los álbumes de *Iron Maiden* o de *Nightwish* justamente de alrededor de los años 2000. Son los álbumes que más disfruto de esos años. 🎧 
 
+¡Hola! Soy *Jair*, a mí casi no me gusta el rock pero te recomiendo mucho la música de *Coldplay*, podría gustarte si te gusta el rock-pop, mi canción favorita es la de *clocks* por la letra y el piano.
+
 <p> !Hola! Soy **ERICK** Tienes unos gustos asi bien bonitos, me gusta que todas las canciones son 'tranquilas' ¿Fue tranquilo tu inicio de año? </p>
 
 Hola, soy **Jessi**. 🟦 Te recomiendo: **Robbers - The 1975** 🫐
