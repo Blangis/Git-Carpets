@@ -50,6 +50,9 @@
 ---
 ¡Hola! Soy ***Gerardo***: Ya que veo que te gusta algo de rock viejito, te recomiendo los álbumes de *Iron Maiden* o de *Nightwish* justamente de alrededor de los años 2000. Son los álbumes que más disfruto de esos años. 🎧 
 
+¡Hola! Soy *Jair*, a mí casi no me gusta el rock pero te recomiendo mucho la música de *Coldplay*, podría gustarte si te gusta el rock-pop, mi canción favorita es la de *clocks* por la letra y el piano.
+
+<p> !Hola! Soy **ERICK** Tienes unos gustos asi bien bonitos, me gusta que todas las canciones son 'tranquilas' ¿Fue tranquilo tu inicio de año? </p>
 
 Hola, soy **Jessi**. 🟦 Te recomiendo: **Robbers - The 1975** 🫐
 
@@ -58,3 +61,6 @@ Te recomiendo mucho artistas como Fleetwood Mac, The Beatles, Pink Floyd, The Ro
 Holis, soy **Dey**: Que geniales gustos, igual me encanta Empire of The Sun, y wow lo que dice Gerardo de *Nightwish* muy buna banda jsjsjs. Yo te recomiendo a *Milky Chance*  
 
 Wenass, soy **Crizzz**. Me agradan esos justos musicales, muy variados ;). Si me permites una recomendación, Justice es muy muy bueno. Deberias checarlo. Saluditos!!
+
+Hola, soy **Karla**, en la sección de música de rock, te recomiendo *Alice in Chains*
+
