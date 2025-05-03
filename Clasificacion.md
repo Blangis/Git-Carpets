@@ -66,3 +66,4 @@ Hola, soy **Karla**, en la sección de música de rock, te recomiendo *Alice in 
 
 Holiwis, soy **Frida Thais**: Te quedó hermosísima tu rama, y muy buen grupo __Empire of the sun__, te recomiendo escuhar __Non-stop__
 
+Hola hola soy **Frida** y esta es mi aportacion al archivo.
